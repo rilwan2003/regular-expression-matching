@@ -1,2 +1,2 @@
-# regular-expression-matching
+# Regular Expression Matching with Javascript
 This is a JavaScript implementation of the Regular Expression Matching algorithm that supports matching with the . and * special characters. 
